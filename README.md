@@ -1,2 +1,4 @@
-# test
-Git Test Repo
+# Test
+Git Test Repo.
+
+Git is working.
